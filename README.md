@@ -1,9 +1,9 @@
 # 🏫 Student Management API
 
-Run the Application
-git clone https://github.com/your-repository/student-management.git
-cd student-management
-mvn spring-boot:run
+# Run the Application
+-git clone https://github.com/your-repository/student-management.git
+-cd student-management
+-mvn spring-boot:run
 
 ## 📖 Overview
 This is a **Spring Boot REST API** for managing student records. It supports creating, updating, searching, and deleting student records.
